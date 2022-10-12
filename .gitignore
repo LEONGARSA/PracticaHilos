@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# ignoramos Los Del IDE
+.idea/
+.iml
 # Log file
 *.log
 
